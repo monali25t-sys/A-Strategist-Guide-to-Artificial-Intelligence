@@ -59,9 +59,13 @@ The most eagerly anticipated forms of autonomous intelligence — self-driving c
 
 ## First Steps 
 As you contemplate the introduction of articial intelligence, articulate what mix of the three approaches works best for you.
+
 • Are you primarily interested in upgrading your existing processes, reducing costs, and improving productivity? If so, then start with assisted intelligence, probably with a small group of services from a cloud-based provider.
+
 • Do you seek to build your business around something new — responsive and self-driven products, or services and experiences that incorporate AI? Then pursue an augmented intelligence approach, probably with more complex AI applications resident on the cloud.
+
 • Are you developing a genuinely new technology? Most companies will be better off primarily using someone else’s AI platforms, but if you can justify building your own, you may become one of the leaders in your market.
+
 The transition among these forms of AI is not clean-cut; they sit on a continuum. In developing their own AI strategy, many companies begin somewhere between assisted and augmented, while expecting to move toward autonomous eventually 
 
 Though investments in AI may seem expensive now, the costs will decline over the next 10 years as the software becomes more commoditized. “As this technology continues to mature,” writes Daniel Eckert, a managing director in emerging technology services for PwC US, “we should see the price adhere toward a utility model and atten out. We expect a tiered pricing model to be introduced: a free (or freemium model) for simple activities, and a premium model for discrete, business-differentiating services.”

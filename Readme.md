@@ -1,3 +1,4 @@
+
 # A Strategist Guide to Artificial Intelligence
 
 ###### As the conceptual side of computer science becomes practical and relevant to business, companies must decide what type of AI role they should play.As the conceptual side of computer science becomes practical and relevant to business, companies must decide what type of AI role they should play.
